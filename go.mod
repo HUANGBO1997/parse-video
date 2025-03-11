@@ -1,6 +1,6 @@
 module github.com/wujunwei928/parse-video
 
-go 1.22.7
+go 1.22
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.3
